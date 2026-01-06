@@ -1,6 +1,6 @@
 # Java
 target/
-*.class
+.class
 *.log
 
 # IDE
