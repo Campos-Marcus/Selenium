@@ -1,0 +1,13 @@
+# Java
+target/
+*.class
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Selenium
+*.png
+*.html
